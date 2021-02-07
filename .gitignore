@@ -1,0 +1,6 @@
+#	archivos de salida y .exe
+**/dmo*/*.exe
+**/dmo*/*.in
+**/dmo*/*.out
+**/dmo*/*.txt
+**/dmo*/*.class
